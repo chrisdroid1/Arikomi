@@ -71,7 +71,7 @@ __help__ = """
 <i> I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.</i>
 
 <b>Syntax</b>
-   @DaisyXBot [command] [query]
+   @Akirogrpbot [command] [query]
 
 <b> Commands Available</b>
 - alive - Check Bot's Stats.
@@ -111,11 +111,11 @@ __help__ = """
 
 __MODULE__ = "Inline"
 __HELP__ = """
- ==>> **INLINE BOT SERVICE OF @DAISYXBOT** <<==
+ ==>> **INLINE BOT SERVICE OF @Akirogrpbot** <<==
 `I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.`
 
    >> Syntax <<
-@DaisyXBot [command] [query]
+@Akirogrpbot [command] [query]
 
    >> Commands Available <<
 - **alive** - __Check Bot's Stats.__
