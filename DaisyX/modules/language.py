@@ -174,5 +174,5 @@ This module is dedicated towards utlising Daisy's localization feature! You can 
 - /lang (language codename): Sets a language
 
 <b>Example:</b> <code>/lang</code>
-Daisy will send you bunch of inline buttons where you can select your prefered language interatively without any hassles!
+Akiro will send you bunch of inline buttons where you can select your prefered language interatively without any hassles!
 """
