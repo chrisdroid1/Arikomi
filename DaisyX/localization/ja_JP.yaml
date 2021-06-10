@@ -164,13 +164,13 @@ STRINGS:
     cant_promote_yourself: "自分自身を昇進させることはできません。"
     emoji_not_allowed: "申し訳ありませんが、管理者の役割は絵文字を持つことができません。 :explosed_face:"
   pm_menu:
-    start_hi_group: 'こんにちは！私の名前はDaisy'
-    start_hi: "こんにちは！私の名前はDaisyです。効率的な方法であなたのグループを管理するのを助けます！"
+    start_hi_group: 'こんにちは！私の名前はAkiro'
+    start_hi: "こんにちは！私の名前はAkiroです。効率的な方法であなたのグループを管理するのを助けます！"
     btn_source: "📦 ソース コード"
     btn_help: "❔ ヘルプ"
-    btn_lang: "🇷🇺 Language"
-    btn_channel: "Daisy News"
-    btn_group: "👥 Daisy Support"
+    btn_lang: " Language"
+    btn_channel: "Akiro News"
+    btn_group: "👥 Akiro Support"
     btn_group_help: "ヘルプのためにクリックしてください!"
     back: 戻る
     #/help
